@@ -4,7 +4,7 @@ leftwristX = 0;
 rightwristX = 0;
 leftwristY = 0;
 rightwristY = 0;
-scoreleftwrist;
+scoreleftwrist = "";
 console.log(scoreleftwrist);
 
 function preload() {
